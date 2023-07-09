@@ -1,0 +1,15 @@
+np.array()
+arr.size
+arr.shape
+arr.reshape
+arr.max
+arr.min
+arr.sum
+np.random.random
+np.arange
+np.linspace
++,-,*,/,**
+arr.flatten
+arr.ndim
+np.zeros
+np.ones

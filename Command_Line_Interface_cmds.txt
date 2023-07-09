@@ -1,0 +1,24 @@
+cd directory_name/path		- change directory
+cd..				- come out of current directory
+dir				- list all that is present in current directory
+mkdir directory_name		- create new directory			
+rmdir directory_name		- remove named directory
+cls				- clear terminal screen
+copy file_name new_loc_path	- copy a file
+del file_name			- delete a file
+erase file_name			- delete a file
+move file_name _loc_path	- moves a file
+rename current_name new_name	- renames a file
+
+Linux :
+
+clear  				-same as cls in windows
+ls 				-is same as dir
+cd directory_name/path		-same as windows command
+cd..				-same as windows
+mkdir directory_name		-same as windows
+rmdir directory_name		-same as windows
+pwd				-prints name of current directory (print working directory)
+cp file_name new_loc		-same as copy in windows
+mv source destination		-same as move
+touch text_file_name.txt	-creates a text file in current directory
